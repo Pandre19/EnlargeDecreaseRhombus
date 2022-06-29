@@ -1,0 +1,8 @@
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.AssemblyReference.cache
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.CoreCompileInputs.cache
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\bin\Debug\PrintShape.exe.config
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\bin\Debug\PrintShape.exe
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\bin\Debug\PrintShape.pdb
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\obj\Debug\PrintShape.exe
+E:\Programming\Assignments\assignment2-300358580\PrintShape\PrintShape\obj\Debug\PrintShape.pdb
